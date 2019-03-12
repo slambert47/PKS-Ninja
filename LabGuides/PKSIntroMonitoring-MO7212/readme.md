@@ -39,7 +39,7 @@ The steps in this lab access a wavefront intance that is only accessible to VMwa
 </details>
 <br/>
 
-1.1.6 Fill in the fields for "Wavefront URL" and "Wavefront Access Token" from step 1.1.3". Remember to press "Save" at the bottom of the page to save the configuration.
+1.1.6 Fill in the fields for "Wavefront URL" and "Wavefront Access Token" from step 1.1.3". Remember to press "Save" at the bottom of the page to save the configuration
 
 <details><summary>Screenshot 1.1.6</summary>
 <img src="Images/6.png">
